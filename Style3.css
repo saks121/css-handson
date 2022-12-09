@@ -161,10 +161,10 @@ body{
     border-bottom-right-radius: 8px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    box-shadow: 6px 6px solid darkorchid;
+    box-shadow: 8px 8px darkorchid;
     position: fixed;
     left: 475px;
-    bottom: 0px;
+    bottom: 15px;
      
 }
 
