@@ -1,0 +1,221 @@
+.head{
+    text-align: center;
+    text-decoration: underline;
+    background-color: forestgreen;
+    width: 1336px;
+    height: 30px;
+    background-image: linear-gradient(to right, red,black,green,limegreen,yellowgreen,yellow);
+
+}
+.list{
+    border: 2px solid red;
+    background-color: cadetblue;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 700px;
+    height: 73px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    justify-content: center;
+    position: absolute;
+    left: 271px;
+    top: 65px;
+}
+.UList{
+    text-align: center;
+}
+
+.Box{
+    border: 2px solid goldenrod;
+    background-color: aqua;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 1330px;
+    height: 192px;
+    position: absolute;
+    top: 157px;
+
+}
+.subBox{
+    border: 2px solid green;
+    background-color: aqua;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 388px;
+    height: 90px;
+    position: absolute;
+    left: 17px;
+}
+
+.subBox2{
+    border: 2px solid green;
+    background-color: aqua;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 388px;
+    height: 90px;
+    position: absolute;
+    left: 467px;
+}
+
+.subBox3{
+    border: 2px solid green;
+    background-color: aqua;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 388px;
+    height: 90px;
+    position: absolute;
+    left: 914px;
+}
+
+.subBox4{
+    border: 2px solid green;
+    background-color: aqua;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 388px;
+    height: 90px;
+    position: absolute;
+    top: 95px;
+    left: 468px;
+}
+.head2{
+    width: 1330px;
+    height: 42px;
+    color: darkblue;
+    text-decoration: underline;
+    text-align: center;
+    background-color: red;
+    position: relative;
+    top: 293px;
+    background-image: linear-gradient(to right, red,orange,yellow,orange,red);
+
+}
+
+.Box2{
+    border: 2px solid green;
+    background-color: springgreen;
+    display: flex;
+    position: absolute;
+    top: 420px;
+    width: 1330px;
+    height: 275px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: radial-gradient(blue,limegreen)
+}
+
+.sub{
+    width: 200px;
+    height: 114px;
+    border: 2px solid red;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    text-align: center;
+    background-color: yellow;
+    text-decoration: underline;
+    color: crimson;
+
+}
+
+.Box3{
+    width: 1330px;
+    height: 316px;
+    background-color: white;
+    position: absolute;
+    top: 738px;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: baseline;
+    justify-items: stretch;
+}
+
+.head3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    position: absolute;
+    width: 1330px;
+    height: 44px;
+   font-size:13px;
+}   
+.subB{
+    color:white;
+    text-align: left;
+}
+.sub1{
+    background-color: limegreen;
+    text-align: center;
+    width: 373px;
+    position: absolute;
+    top: 75px;
+    height: 68px;
+    font-size: 21px;
+}
+
+.sub2{
+    background-color: royalblue;
+    text-align: left;
+    position: absolute;
+    width: 373px;
+    top: 75px;
+    left: 404px;
+    height: 68px;
+    font-size: 21px;
+}
+
+.sub3{
+    background-color: blueviolet;
+    text-align: left;
+    width: 373px;
+    position: absolute;
+    top: 75px;
+    left: 806px;
+    height: 68px;
+    font-size: 21px;
+}
+.sub4{
+    background-color: orange;
+    color: white;
+    height: 105px;
+    width: 1178px;
+    position: absolute;
+    top: 159px;
+    
+} 
+
+.sub5{
+    background-color: black;
+    width: 124px;
+    height: 190px;
+    position: absolute;
+    left: 1207px;
+    top: 75px;
+    
+
+}
+.sub6{
+    background-color: cadetblue;
+    text-align: center;
+    width: 1330px;
+    position: absolute;
+    top: 273px;
+    height: 40px;
+    font-size: smaller;
+}
